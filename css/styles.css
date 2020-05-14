@@ -6472,7 +6472,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #f4623a !important;
+  background-color: #456963 !important;
 }
 
 a.bg-primary:hover,
@@ -6549,7 +6549,7 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-  background-color: #343a40 !important;
+  background-color: #456963 !important;
 }
 
 a.bg-dark:hover,
@@ -10483,7 +10483,7 @@ header.masthead {
       rgba(92, 77, 66, 0.2) 0%,
       rgba(92, 77, 66, 0.2) 100%
     ),
-    url("../assets/img/folder1/IMG_1527.jpg");
+    url("../assets/img/blue-and-gray-concrete-house-with-attic-during-twilight-186077.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -10595,5 +10595,5 @@ header.masthead h1 {
 }
 
 .text-white-75 {
-  color: rgba(255, 255, 255, 0.75);
+  color: rgba(255, 255, 255);
 }
